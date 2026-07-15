@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 输出数据产物（运行后生成）
+sft/data/*.json
+
+# 原始数据（体积大，不应提交）
+python_code_instructions_18k_alpaca/
+data/
+datasets/
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+
+# 日志文件
+*.log
