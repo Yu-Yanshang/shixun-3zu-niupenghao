@@ -79,10 +79,9 @@
 
 ```
 sft/
-├── scripts/
-│   ├── prepare_code_sft_data.py   # 核心流水线
-│   └── prepare_data.sh           # 一键运行脚本
-└── data/                         # 输出目录
+└── scripts/
+    ├── prepare_code_sft_data.py   # 核心流水线
+    └── prepare_data.sh           # 一键运行脚本
 ```
 
 ### 4.2 命令行参数一览
