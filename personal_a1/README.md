@@ -266,5 +266,3 @@ LLaMA-Factory 在训练配置中只需引用 `dataset: code_sft_train` 即可自
 [https://github.com/13flix/BEYOND-LIKELIHOOD](https://github.com/13flix/BEYOND-LIKELIHOOD)
 
 ---
-
-*本模块由牛鹏浩（20235775）独立开发，作为综合实训 Ⅱ 阶段核心交付物之一。*
